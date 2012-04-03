@@ -1,0 +1,69 @@
+==================================================
+Changes from 2011-04-04 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.001 at 2012-04-03 19:34:04 +0000
+------------------------------------------
+
+  Change: 619ab480bf8934d15d4e3756119e2602f419e272
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-04-03 15:33:45 +0000
+
+    gonna cut a beta release 
+
+  Change: 1c776982958eb6e05c5bb5c1635b43ae313adb23
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-04-03 13:22:05 +0000
+
+    added arg check to get method 
+
+  Change: ab3882b23d529e84f8f9bb232515a01eeec45f0c
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-04-03 09:46:24 +0000
+
+    updated readme 
+
+  Change: 8861409d2b5a4ebff8bc9ac482bfcf84f7fe97c5
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-04-03 09:45:25 +0000
+
+    finally filled out the generation sub 
+
+  Change: 0f6d1a331cff23e957930663004e633e7a906c69
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-31 15:19:52 +0000
+
+    little tweaks to the docs 
+
+  Change: 32b367309c6cf9b2d7204f6d79cb064eb26acaf8
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-31 09:18:44 +0000
+
+    readme for github 
+
+  Change: 6c306452150a658f7a3717dc29b1950a1df7b966
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-31 09:16:28 +0000
+
+    renamed to Cartesian product 'cause that's more better 
+
+------------------------------------------
+version 0.000 at 2012-03-30 21:54:17 +0000
+------------------------------------------
+
+  Change: a44b7ba1fb0d44b3c76d6f37fc186075c5ba2dcb
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-30 17:54:17 +0000
+
+    started to fill out Lazy.pm 
+
+  Change: b0dac65c1c5ad378aa9cbab5c9a342163a54322e
+  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
+  Date : 2012-03-30 16:03:07 +0000
+
+    initial commit 
+
+================
+End of releases.
+================

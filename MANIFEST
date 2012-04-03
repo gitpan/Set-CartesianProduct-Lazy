@@ -1,0 +1,9 @@
+Build.PL
+CHANGES
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+lib/Set/CartesianProduct/Lazy.pm
