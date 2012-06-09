@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Set::CartesianProduct::Lazy;
 {
-  $Set::CartesianProduct::Lazy::VERSION = '0.001';
+  $Set::CartesianProduct::Lazy::VERSION = '0.002';
 }
 {
   $Set::CartesianProduct::Lazy::DIST = 'Set-CartesianProduct-Lazy';
@@ -98,7 +98,7 @@ Set::CartesianProduct::Lazy - lazily calculate the tuples of a cartesian-product
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
@@ -247,10 +247,6 @@ And you can do this instead:
   for my $i ( 0 .. $cpl->last_idx ) { ... }
 
 Which I feel is more readable.
-
-=head1 TODO
-
-Tests. I need to write tests.
 
 =for :stopwords cpan testmatrix url annocpan anno bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
 

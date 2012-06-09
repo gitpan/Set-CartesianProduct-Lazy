@@ -1,16 +1,42 @@
 ==================================================
-Changes from 2011-04-04 00:00:00 +0000 to present.
+Changes from 2011-06-10 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.001 at 2012-04-03 19:34:04 +0000
+version 0.002 at 2012-06-09 14:53:14 +0000
 ------------------------------------------
 
-  Change: 619ab480bf8934d15d4e3756119e2602f419e272
-  Author: Stephen R. Scaffidi <sscaffid@akamai.com>
-  Date : 2012-04-03 15:33:45 +0000
+  Change: 2b103abf0f29df81d811be64d1001a6dbffc796f
+  Author: Stephen R. Scaffidi <stephen@scaffidi.net>
+  Date : 2012-06-09 10:53:09 +0000
 
-    gonna cut a beta release 
+    new release 
+
+  Change: ae0f6af37da3b9d079be65d6ee7dae51b56e5578
+  Author: Stephen R. Scaffidi <stephen@scaffidi.net>
+  Date : 2012-06-09 10:52:12 +0000
+
+    new release 
+
+  Change: 0fbb0342125899def5d640f9c0290825a3de9a0f
+  Author: Stephen R. Scaffidi <stephen@scaffidi.net>
+  Date : 2012-06-09 07:34:59 +0000
+
+    Merge pull request #1 from helluin912/master
+
+    Tests for Set-CartesianProduct-Lazy 
+
+  Change: 5108abe5ffbbd8e9879ea65ff10b71aac5161f20
+  Author: Erin Moy <erinamoy@gmail.com>
+  Date : 2012-06-07 21:50:47 +0000
+
+    tests for Set::CartesianProduct::Lazy 
+
+  Change: e2a0992a12da0ca00c581e75c91d70afa1d3c34e
+  Author: Erin Moy <erinamoy@gmail.com>
+  Date : 2012-06-07 21:19:56 +0000
+
+    tests for Set::CartesianProduct::Lazy 
 
   Change: 1c776982958eb6e05c5bb5c1635b43ae313adb23
   Author: Stephen R. Scaffidi <sscaffid@akamai.com>
@@ -47,10 +73,6 @@ version 0.001 at 2012-04-03 19:34:04 +0000
   Date : 2012-03-31 09:16:28 +0000
 
     renamed to Cartesian product 'cause that's more better 
-
-------------------------------------------
-version 0.000 at 2012-03-30 21:54:17 +0000
-------------------------------------------
 
   Change: a44b7ba1fb0d44b3c76d6f37fc186075c5ba2dcb
   Author: Stephen R. Scaffidi <sscaffid@akamai.com>

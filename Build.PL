@@ -7,7 +7,8 @@ use Module::Build 0.3601;
 
 my %module_build_args = (
   "build_requires" => {
-    "Module::Build" => "0.3601"
+    "Module::Build" => "0.3601",
+    "Test::More" => 0
   },
   "configure_requires" => {
     "ExtUtils::MakeMaker" => "6.30",
@@ -18,7 +19,7 @@ my %module_build_args = (
     "Stephen R. Scaffidi <sscaffidi\@cpan.org>"
   ],
   "dist_name" => "Set-CartesianProduct-Lazy",
-  "dist_version" => "0.001",
+  "dist_version" => "0.002",
   "license" => "perl",
   "module_name" => "Set::CartesianProduct::Lazy",
   "recommends" => {},

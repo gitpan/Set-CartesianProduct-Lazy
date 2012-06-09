@@ -12,7 +12,8 @@ my %WriteMakefileArgs = (
   "ABSTRACT" => "lazily calculate the tuples of a cartesian-product",
   "AUTHOR" => "Stephen R. Scaffidi <sscaffidi\@cpan.org>",
   "BUILD_REQUIRES" => {
-    "Module::Build" => "0.3601"
+    "Module::Build" => "0.3601",
+    "Test::More" => 0
   },
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => "6.30",
@@ -30,9 +31,9 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
-    "TESTS" => ""
+    "TESTS" => "t/*.t"
   }
 );
 
